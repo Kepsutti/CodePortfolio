@@ -41,7 +41,7 @@ public class NPC : MonoBehaviour
             col.enabled = false;
         }
 
-        //Spirlaing motion
+        //Spiraling motion
         while (transform.position.x != player.transform.position.x && transform.position.z != player.transform.position.z)
         {
             yield return new WaitForEndOfFrame();
