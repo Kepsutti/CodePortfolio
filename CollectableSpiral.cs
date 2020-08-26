@@ -6,7 +6,7 @@ using UnityEngine.Events;
 /*
  *          INFO
  *          
- *     This SpiralAround class was used in an adventure game where the played character collects fireflies from a map.
+ *     This SpiralAround function was used in an adventure game where the played character collects fireflies from a map.
  *     When a firefly is collected, it performs an action of circling around the player in a spiral until it reaches
  *     the position of the player, at which point it would disappear and launch a particle effect.
  *     
