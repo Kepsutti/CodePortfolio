@@ -16,6 +16,8 @@ using UnityEngine.UI;
  *     optional skipping of the cutscenes was made possible.
  *     Character animations have not been implemented at this point.
  *     
+ *     Link to the code in action, triggered multiple times throughout the clip:
+ *     https://youtu.be/7HXWGKQ49kY
 */
 
 public class TutoLvl : MonoBehaviour
