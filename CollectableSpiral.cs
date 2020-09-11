@@ -10,6 +10,8 @@ using UnityEngine.Events;
  *     When a firefly is collected, it performs an action of circling around the player in a spiral until it reaches
  *     the position of the player, at which point it would disappear and launch a particle effect.
  *     
+ *     Timestamped link for the code in action:
+ *     https://youtu.be/7HXWGKQ49kY?t=75
 */
 
 
