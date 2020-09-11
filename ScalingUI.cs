@@ -9,7 +9,9 @@ using UnityEngine;
  *     The result is an exlamation mark (!) icon above the NPC, its size stays constant in relation to the size of the screen - it appears larger in the distance, but shinks
  *     as the player moves closer to it. It simultaneously moves up and down in a bouncy motion and always faces the camera.
  *     At its activation it scales up from 0 to the desired size during a set amount of frames.
- *     
+ *          
+ *     Timestamped link for the code in action:
+ *     https://youtu.be/7HXWGKQ49kY?t=54
 */
 
 public class ScalingUI : MonoBehaviour
